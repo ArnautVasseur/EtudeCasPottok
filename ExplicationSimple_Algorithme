@@ -1,0 +1,17 @@
+L'algorithme a été pensé pour être ensuite utilisé et intégré à une application web / mobile.
+
+L'algorithme se sert de 2 autres fonctions: 
+
+- calculateDistance et toRadians qui respectivement calculent la distance entre l'utilisateur et les annonces en utilisants les coordonnées enregistrées et la formule de Haversine
+et la fonction toRadians qui convertie les degrés en radians, utilisés dans la formule de Haversine.
+
+L'algorithme renvoie une liste triée des annonces de la plus pertinente à la moins pertinente en fonction des critères comparés entre l'utilisateur et l'annonce.
+Un système de points est associée à chaque annonce temporairement en fonction de chaque utilisateur pour pouvoir être triés en réponse.
+
+Le système de point se base sur :
+
+- la comparaison entre le niveau de galop de l'utilisateur et le niveau de galop requis de l'annonce
+- la distance les séparants
+- et sur si la participations au concours est autorisée
+
+L'algorithme en fait une somme qu'il utilisera pour trier les annonces pour chaque utilisateur.
