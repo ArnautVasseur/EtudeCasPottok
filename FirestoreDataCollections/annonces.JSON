@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "format": "JSON",
+    "version": "1.1.0",
+    "projectId": "firestorepottok",
+    "resourcePath": [
+      "annonces"
+    ],
+    "recursive": false,
+    "creationTime": 1708427606,
+    "app": "firefoo"
+  },
+  "data": {
+    "1mQ28ntZ3sZssSzGmkAi": {
+      "annonceId": "annonce1",
+      "concoursAutorise": true,
+      "localisation": {
+        "__lat__": 48.856613,
+        "__lon__": 2.352222
+      },
+      "niveauGalopRequis": 4,
+      "__collections__": {}
+    },
+    "2mTBOay5x3q07sBi2RFg": {
+      "annonceId": "annonce3",
+      "concoursAutorise": true,
+      "localisation": {
+        "__lat__": 48.857862,
+        "__lon__": 2.350216
+      },
+      "niveauGalopRequis": 3,
+      "__collections__": {}
+    },
+    "6BMInyRP8tV72bpIMJdV": {
+      "annonceId": "annonce2",
+      "concoursAutorise": false,
+      "localisation": {
+        "__lat__": 48.856613,
+        "__lon__": 2.352222
+      },
+      "niveauGalopRequis": 7,
+      "__collections__": {}
+    },
+    "ctMB5Dm43fLVwGrvMVMa": {
+      "annonceId": "annonce4",
+      "concoursAutorise": true,
+      "localisation": {
+        "__lat__": 29.5678789,
+        "__lon__": 8.0437945
+      },
+      "niveauGalopRequis": 1,
+      "__collections__": {}
+    }
+  }
+}

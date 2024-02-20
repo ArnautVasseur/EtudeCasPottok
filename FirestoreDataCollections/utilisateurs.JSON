@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "format": "JSON",
+    "version": "1.1.0",
+    "projectId": "firestorepottok",
+    "resourcePath": [
+      "utilisateurs"
+    ],
+    "recursive": false,
+    "creationTime": 1708427759,
+    "app": "firefoo"
+  },
+  "data": {
+    "DfDxIGMw08AwIKhFqbfR": {
+      "concoursAutorise": false,
+      "localisation": {
+        "__lat__": 29.954821,
+        "__lon__": 7.010739
+      },
+      "niveauGalop": 3,
+      "uid": "utilisateur2",
+      "__collections__": {}
+    },
+    "GTbYRfghQq3DDmmXDZGG": {
+      "concoursAutorise": false,
+      "localisation": {
+        "__lat__": 30.151338,
+        "__lon__": 9.658841
+      },
+      "niveauGalop": 2,
+      "uid": "utilisateur3",
+      "__collections__": {}
+    },
+    "MjQm6ZtQMrGT33SuidY4": {
+      "concoursAutorise": true,
+      "localisation": {
+        "__lat__": 48.858844,
+        "__lon__": 2.29435
+      },
+      "niveauGalop": 5,
+      "uid": "utilisateur1",
+      "__collections__": {}
+    }
+  }
+}
